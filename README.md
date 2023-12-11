@@ -1,51 +1,63 @@
-# RunMarioRun
+# Run Mario Run
 
-![Run Mario Run Logo](RunMarioRun/Content/Image/RunMarioRun.png)
+![Run Mario Run Logo](RunMarioRun/Content/Image/Run-mario-run.png)
 
-Welcome to Run Mario Run, a game developed using the C# MonoGame framework. Get ready for an exciting adventure as Mario runs continuously, overcoming obstacles and avoiding pipes. Make sure to time your jumps perfectly to keep Mario safe!
 
-Table of Contents
-Gameplay
-Features
-Screenshots
-Installation
-Controls
-Scenes
-Exiting the Game
-Contributing
-License
-Gameplay
-The objective of the game is simple: help Mario run as far as possible by navigating through obstacles. Mario automatically runs, and you must jump over pipes by clicking the left mouse button or pressing the space bar. Be careful! If Mario collides with a pipe, the game ends.
+Welcome to **Run Mario Run**, a professionally crafted game developed using the C# MonoGame framework. Join Mario in his perpetual run, skillfully navigating obstacles and evading pipes. Master the art of timing to ensure Mario's safety and achieve remarkable high scores!
 
-Features
-Continuous Running: Mario runs endlessly, providing a challenging and engaging experience.
-Character Name Input: Enter your character name before starting the game. Duplicate names will have their scores combined.
-Help Scene: Access instructions on gameplay through the help scene.
-About Scene: Learn more about the game developers in the about scene.
-Screenshots
-Screenshot 1
-Caption for Screenshot 1
+## Table of Contents
+- [Gameplay](#gameplay)
+- [Key Features](#key-features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Controls](#controls)
+- [Scenes](#scenes)
+- [Exiting the Game](#exiting-the-game)
 
-Screenshot 2
-Caption for Screenshot 2
+## Gameplay
 
-Installation
-Clone the repository: git clone https://github.com/your-username/run-mario-run.git
-Open the project in your preferred C# IDE.
-Build and run the project.
-Controls
-Jump: Left mouse button or Space bar.
-Scenes
-Main Menu: Input your character name and start the game.
-Help Scene: Instructions on gameplay.
-About Scene: Information about the game developers.
-Exiting the Game
-Press the Esc key at any point during the scenes to exit the game.
-Click the back button to return to the main menu.
-Contributing
-If you would like to contribute to the development of Run Mario Run, please follow our contribution guidelines.
+Embark on an endless journey with Mario, overcoming obstacles and avoiding pipes. Mario runs automatically, and your precise input is crucial for navigating through challenges. Click the left mouse button or press the space bar to make Mario jump and conquer the course.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Key Features
 
-Feel free to customize this README according to your project structure and specific details. Good luck with your game development! 🎮🏃‍♂️🍄
+- **Seamless Endless Running:** Experience an infinite and challenging runner game.
+- **Personalized Player Experience:** Input your name for a customized gaming session.
+- **Intuitive Help Scene:** Access clear and concise instructions for seamless gameplay.
+- **Insightful About Scene:** Learn more about the skilled developers behind this project.
+
+## Screenshots
+
+![Screenshot 1](RunMarioRun/Content/Image/mariohomepage.png)
+*Home page screenshot*
+
+![Screenshot 2](RunMarioRum/Content/Image/playss.png)
+*Play page screenshot 2*
+
+![Screenshot 3](RunMarioRum/Content/Image/gameoverss.png)
+*game over page screenshot 2*
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/mahir1522/run-mario-run.git`
+2. Open the project in your preferred C# IDE.
+3. Build and run the project.
+
+## Controls
+
+- **Responsive Jump Mechanism:** Click the left mouse button or press the space bar for timely jumps.
+
+## Scenes
+
+- **Main Menu:** Begin your personalized gaming experience by entering your name.
+- **Help Scene:** Find comprehensive instructions for smooth gameplay.
+- **About Scene:** Discover the skilled minds behind the development.
+
+## Exiting the Game
+
+- Press the `Esc` key at any point to gracefully exit the game.
+- Utilize the back button to seamlessly return to the main menu.
+
+---
+
+Feel free to tailor this template further to align with your project's professional tone and style. Good luck with your game development endeavors! 🎮🏃‍♂️🍄
+
