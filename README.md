@@ -30,10 +30,10 @@ Embark on an endless journey with Mario, overcoming obstacles and avoiding pipes
 ![Screenshot 1](RunMarioRun/Content/Image/mariohomepage.png)
 *Home page screenshot*
 
-![Screenshot 2](RunMarioRum/Content/Image/playss.png)
+![Screenshot 2](RunMarioRun/Content/Image/playss.png)
 *Play page screenshot 2*
 
-![Screenshot 3](RunMarioRum/Content/Image/gameoverss.png)
+![Screenshot 3](RunMarioRun/Content/Image/gameoverss.png)
 *game over page screenshot 2*
 
 ## Installation
